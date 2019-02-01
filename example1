@@ -1,0 +1,1 @@
+You can configure the port numbers to use for SSH and Telnet connections: The default port for SSH client connections is 22; to change this default, enter a port number between 1024 and 32,767. The default port for Telnet client connections is 23; to change this default, enter a port number between 1024 and 32,767.
